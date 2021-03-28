@@ -1,0 +1,175 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image:url(https://wallpapercave.com/wp/K1qMUBK.jpg);
+    background-repeat: no-repeat;
+    background-size: 2200px 1640px;
+    
+    
+}
+
+.main{
+    padding: 0;
+    margin: 0;
+    background-color:none
+    
+}
+ul{
+    list-style:none;
+    
+}
+li,a,#bobo{
+    list-style: none;
+     float:left;
+     padding: 4px;
+     
+}
+li,a:hover{
+    color:red;
+   opacity: 0.8;
+   font-size: 30px; 
+}
+.nav,a{
+    color:lime;
+    
+    padding: 20px;
+    float:right;
+    font-size: 20px;
+}
+#bobo{  
+    background-color:transparent;
+}
+b,center{
+    font-size: 30px;
+    background-color:thistle;
+    border-radius: 20%;
+
+}
+.header{
+     box-sizing: border-box;
+     float:left;
+     width: 76.33%;
+    margin: 0px;
+    font-size:40px;
+    text-align:center;
+    opacity: 0.7;
+     font-family:'Train One', cursive;
+    ;
+    font-weight: bold;
+    
+}
+input{
+    margin:0;
+    padding: 0;
+    width:10%;
+    border:8px solid midnightblue;
+    text-align: center;
+    
+    
+}
+.box{
+
+    padding: 3%;
+    font-size:30px;
+    background-image: url(https://www.dragoninsure.com/wp-content/uploads/2019/05/coastal-family-health-travel-clinic.jpg);
+ 
+   background-repeat: no-repeat;
+    
+background-size:cover;
+}
+#where{
+    width: 30%;
+    padding: 5px;
+    background-color:whitesmoke;
+    font-size:20px;
+    
+    
+}
+#sreach,button{
+   padding:12px;
+    width: 6%;
+    background-color: orangered;
+    color:white; 
+    font-size:16px;  
+}
+#up,#up2{
+    padding:4PX;
+    
+    margin: 5px;
+    border: none;
+   
+    color:darkblue; 
+    float:initial;
+   text-align:center;
+   text-shadow: 1px -5px 9px rgb(22 22 22 )
+  ;
+font-weight: bold;
+  font-size: 35px;
+  
+  
+}
+
+.sign,#id,#id2{
+    margin: 0;
+    padding: 60px
+}
+#id2{
+    padding: 1px;
+}
+#id,#id2{
+    font-size:70px;
+    font-family: 'Oleo Script', cursive;; 
+    text-align: center; 
+}
+.pics{
+    position: absolute;
+    display: flex;
+    float: initial;
+    padding: 0 90px;
+    margin: 5px 80px;
+}
+.box1{
+    width: 500px;
+    height: 560px;
+    background: url(https://i.ytimg.com/vi/JvuwFHVTNlA/maxresdefault.jpg);
+    background-position: center;
+    background-size: cover;
+    margin: 0px 5px;
+    box-shadow: 9px 9px 9px rgb(22 22 22);
+}
+.box2{
+
+    width: 253px;
+    height: 560px;
+    background: url(https://santorinidave.com/wp-content/uploads/2019/11/best-time-to-visit-paris.jpeg);
+
+    background-position: center;
+    background-size: cover;
+    margin: 0px 5px;
+    box-shadow: 9px 9px 9px rgb(22 22 22);
+    opacity: 1;
+    
+}
+
+.box3{
+
+    width: 253px;
+    height: 560px;
+    background: url(https://free4kwallpapers.com/uploads/originals/2020/01/14/maldives-wallpaper.jpg) ;
+    ;
+    background-position: center;
+    background-size:cover;
+    margin: 0px 5px;
+    box-shadow: 9px 9px 9px rgb(22 22 22);
+}
+
+.box4{
+    width: 500px;
+    height: 560px;
+    background: url(https://www.arabianbusiness.com/public/images/2019/02/26/kerala-tourism.jpg);
+    background-position: center;
+    background-size: cover;
+    margin: 0px 5px;
+    box-shadow: 9px 9px 9px rgb(22 22 22)
+}
+
